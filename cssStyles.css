@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+label, input {
+    box-sizing: border-box;
+    padding: .2rem;
+}
+
+button {
+    box-sizing: border-box;
+    margin: .2rem;
+}
